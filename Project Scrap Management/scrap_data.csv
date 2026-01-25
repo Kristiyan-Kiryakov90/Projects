@@ -1,0 +1,196 @@
+Posting data;Sorting material description;Qyantity;Component quantity;m2;Fault;Fault text;Reason;Reason text;Comment
+02.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;4;4;9;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+02.1.2024 ?.;REG 12.5 1200 2600 HRTE (60) S+B;3;3;9;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+02.1.2024 ?.;REG 12.5 1200 2600 TE (60);43;43;134.2;F002;Poor edges;10;Run up / shut down (prod start / end);
+02.1.2024 ?.;REG 12.5 1200 2600 TE (60);2;2;6;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+02.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;5;5;15;F006;Wet board;40;Product change (flying changeover);
+02.1.2024 ?.;FR 12.5 1200 2600 TE (60) 1WP foil NG;18;18;56.2;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+02.1.2024 ?.;REG 12.5 1200 2000 TE (60) EWP Foil NG;10;10;24;F004;Paper bonding;40;Product change (flying changeover);
+02.1.2024 ?.;FR 15 1200 2000 HRTE (40);1;1;2;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+04.1.2024 ?.;FR 15 1200 2600 TE (40);80;80;249.6;F004;Paper bonding;10;Run up / shut down (prod start / end);
+04.1.2024 ?.;FR 15 1200 2600 TE (40);50;50;156;F002;Poor edges;10;Run up / shut down (prod start / end);
+04.1.2024 ?.;FR 15 1200 2600 TE (40);25;25;78;F006;Wet board;10;Run up / shut down (prod start / end);
+05.1.2024 ?.;FR 15 1200 2600 TE (40);8;8;25;F002;Poor edges;50;Paper change;
+05.1.2024 ?.;FR 12.5 1200 2600 TE (60);10;10;31.2;F002;Poor edges;50;Paper change;
+05.1.2024 ?.;FR 12.5 1200 2600 TE (60) 1WP foil NG;157;157;489.8;F002;Poor edges;10;Run up / shut down (prod start / end);
+05.1.2024 ?.;FR 12.5 1200 2600 TE (60) 1WP foil NG;6;6;18;F003;Hollow edges;40;Product change (flying changeover);
+05.1.2024 ?.;FR 12.5 1200 2600 TE (60) 1WP foil NG;4;4;12;F005;Rippling;50;Paper change;
+05.1.2024 ?.;FR 12.5 1200 2600 TE (60) 1WP foil NG;3;3;9;F003;Hollow edges;50;Paper change;
+05.1.2024 ?.;FR 15 1200 2000 HRTE (40);24;24;57.6;F002;Poor edges;50;Paper change;
+05.1.2024 ?.;FR 15 1200 2000 HRTE (40);28;28;67.2;F005;Rippling;50;Paper change;
+05.1.2024 ?.;FR 15 1200 2000 HRTE (40);60;60;144;F004;Paper bonding;40;Product change (flying changeover);
+05.1.2024 ?.;FR 15 1200 2000 HRTE (40);60;60;144;F002;Poor edges;40;Product change (flying changeover);
+05.1.2024 ?.;FR 15 1200 2000 HRTE (40);20;20;48;F005;Rippling;50;Paper change;
+05.1.2024 ?.;FR 15 1200 2600 TE (40) OWP w. foil NG;74;74;230.9;F002;Poor edges;10;Run up / shut down (prod start / end);
+05.1.2024 ?.;FR 15 1200 2600 TE (40) OWP w. foil NG;14;14;43.7;F002;Poor edges;50;Paper change;
+06.1.2024 ?.;FR 12.5 1200 2000 HRTE (60) PLS;133;133;319.2;F002;Poor edges;10;Run up / shut down (prod start / end);
+06.1.2024 ?.;FR 12.5 1200 2000 HRTE (60) PLS;310;310;744;F002;Poor edges;40;Product change (flying changeover);
+06.1.2024 ?.;FR 12.5 1200 2600 TE (60);62;62;193.4;F002;Poor edges;40;Product change (flying changeover);
+06.1.2024 ?.;FR 12.5 1200 2600 TE (60);6;6;18;F003;Hollow edges;40;Product change (flying changeover);
+06.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;30;30;93.6;F004;Paper bonding;10;Run up / shut down (prod start / end);
+06.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;81;81;252.7;F002;Poor edges;10;Run up / shut down (prod start / end);
+06.1.2024 ?.;FR 12.5 1200 2600 TE (60) 1WP foil NG;2;2;6;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+06.1.2024 ?.;FR 15 1200 2000 HRTE (40);120;120;288;F004;Paper bonding;40;Product change (flying changeover);
+06.1.2024 ?.;FR 15 1200 2000 HRTE (40);103;103;247.2;F002;Poor edges;40;Product change (flying changeover);
+06.1.2024 ?.;Sonicboard REG 12.5 1200 2000 TE (60);150;150;360;F002;Poor edges;10;Run up / shut down (prod start / end);
+06.1.2024 ?.;Sonicboard REG 12.5 1200 2000 TE (60);2;2;4;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+07.1.2024 ?.;MR 12.5 1200 2600 TE (60) EWP Foil NG;1;1;3;F005;Rippling;50;Paper change;
+07.1.2024 ?.;MR 12.5 1200 2600 TE (60) EWP Foil NG;64;64;199.7;F002;Poor edges;10;Run up / shut down (prod start / end);
+07.1.2024 ?.;FR 15 1200 2000 HRTE (40);40;40;96;F004;Paper bonding;10;Run up / shut down (prod start / end);
+07.1.2024 ?.;FR 15 1200 2000 HRTE (40);61;61;146.4;F002;Poor edges;10;Run up / shut down (prod start / end);
+07.1.2024 ?.;FR 15 1200 2000 HRTE (40);50;50;120;F002;Poor edges;10;Run up / shut down (prod start / end);
+07.1.2024 ?.;MR 12.5 1200 2600 TE (60);66;66;205.9;F002;Poor edges;10;Run up / shut down (prod start / end);
+07.1.2024 ?.;REG PLUS 12.5 1200 2600 TE (60) NG;2;2;6;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+08.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;44;44;105.6;F002;Poor edges;40;Product change (flying changeover);
+08.1.2024 ?.;REG 12.5 1200 2700 HRTE (60) S+B;5;5;16;F002;Poor edges;50;Paper change;
+08.1.2024 ?.;REG 12.5 1200 2000 TE (60) GS Foil NG;244;244;585.6;F002;Poor edges;40;Product change (flying changeover);
+08.1.2024 ?.;MR 12.5 1200 2600 TE (60);90;90;280.8;F002;Poor edges;40;Product change (flying changeover);
+08.1.2024 ?.;MR 12.5 1200 2600 TE (60);20;20;62.4;F008;Board geometry;140;Bundler / saw cut;
+08.1.2024 ?.;MR 12.5 1200 2600 TE (60);10;10;31.2;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+08.1.2024 ?.;MR 12.5 1200 2600 TE (60);5;5;15;F005;Rippling;50;Paper change;
+09.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;26;26;62.4;F002;Poor edges;50;Paper change;
+09.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;3;3;7;F002;Poor edges;50;Paper change;
+09.1.2024 ?.;REG 12.5 1200 2600 HRTE (60) S+B;9;9;28;F005;Rippling;50;Paper change;
+09.1.2024 ?.;REG 12.5 1200 2600 TE (60);5;5;15;F002;Poor edges;50;Paper change;
+09.1.2024 ?.;REG 12.5 1200 2600 TE (60);20;20;62.4;F002;Poor edges;50;Paper change;
+09.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;9;9;28;F002;Poor edges;50;Paper change;
+09.1.2024 ?.;FR 15 1200 2000 HRTE (40);640;640;1;F016;Other reasons (with comment!);170;Other reasons (with comment!);Wider plates - 5mm
+10.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;14;14;33.6;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+10.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;40;40;96;F005;Rippling;40;Product change (flying changeover);
+10.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;81;81;194.4;F002;Poor edges;40;Product change (flying changeover);
+10.1.2024 ?.;MR 12.5 1200 2600 HRTE (60) S+B;14;14;43.7;F002;Poor edges;50;Paper change;
+10.1.2024 ?.;MR 12.5 1200 2500 HRTE (60) S+B;2;2;6;F008;Board geometry;140;Bundler / saw cut;
+10.1.2024 ?.;FR 15 1200 2000 HRTE (40);440;440;1;F016;Other reasons (with comment!);170;Other reasons (with comment!);Wider plates - 5mm
+10.1.2024 ?.;MR 12.5 1200 2600 TE (60);10;10;31.2;F016;Other reasons (with comment!);140;Bundler / saw cut;broken boards. bundler.
+10.1.2024 ?.;MR 12.5 1200 2600 TE (60);55;55;171.6;F002;Poor edges;40;Product change (flying changeover);
+10.1.2024 ?.;MR 12.5 1200 2600 TE (60);30;30;93.6;F005;Rippling;40;Product change (flying changeover);
+10.1.2024 ?.;REG PLUS 12.5 1200 2600 TE (60) NG;30;30;93.6;F002;Poor edges;40;Product change (flying changeover);
+10.1.2024 ?.;REG PLUS 12.5 1200 2600 TE (60) NG;10;10;31.2;F003;Hollow edges;40;Product change (flying changeover);
+11.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;12;12;28;F002;Poor edges;50;Paper change;
+11.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;83;83;199.2;F002;Poor edges;40;Product change (flying changeover);
+11.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;2;2;4;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+11.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;15;15;36;F009;Bubbles;40;Product change (flying changeover);
+11.1.2024 ?.;MR 12.5 1200 2000 TE (60) GS m.Foli NG;25;25;60;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+11.1.2024 ?.;MR 12.5 1200 2000 TE (60) GS m.Foli NG;14;14;33.6;F002;Poor edges;50;Paper change;
+11.1.2024 ?.;MR 12.5 1200 2000 TE (60) GS m.Foli NG;150;150;360;F009;Bubbles;40;Product change (flying changeover);
+12.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;7;7;16;F002;Poor edges;50;Paper change;
+12.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;44;44;137.3;F002;Poor edges;10;Run up / shut down (prod start / end);
+12.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;79;79;246.5;F002;Poor edges;40;Product change (flying changeover);
+12.1.2024 ?.;MR 12.5 1200 2600 TE (60) EWP Foil NG;14;14;43.7;F002;Poor edges;50;Paper change;
+12.1.2024 ?.;MR 12.5 1200 2000 TE (60) GS m.Foli NG;37;37;88.8;F009;Bubbles;40;Product change (flying changeover);
+12.1.2024 ?.;MR 12.5 1200 2000 TE (60) GS m.Foli NG;100;100;240;F002;Poor edges;40;Product change (flying changeover);
+12.1.2024 ?.;MR 12.5 1200 2600 TE (60);36;36;112.3;F002;Poor edges;50;Paper change;
+12.1.2024 ?.;MR PLUS 12.5 1200 2600 TE (60) NG;9;9;28;F002;Poor edges;50;Paper change;
+13.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;15;15;36;F005;Rippling;50;Paper change;
+13.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;15;15;36;F002;Poor edges;50;Paper change;
+13.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;129;129;309.6;F002;Poor edges;10;Run up / shut down (prod start / end);
+13.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;12;12;37.4;F005;Rippling;50;Paper change;
+13.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;118;118;368.2;F002;Poor edges;10;Run up / shut down (prod start / end);
+13.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;3;3;9;F008;Board geometry;140;Bundler / saw cut;
+13.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;10;10;31.2;F005;Rippling;50;Paper change;
+13.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;30;30;93.6;F002;Poor edges;40;Product change (flying changeover);
+13.1.2024 ?.;REG 12.5 1200 2000 TE (60) GS Foil NG;6;6;14;F002;Poor edges;50;Paper change;
+13.1.2024 ?.;REG 12.5 1200 2000 TE (60) GS Foil NG;8;8;19;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+14.1.2024 ?.;FR 12.5 1200 2000 HRTE (60) PLS;394;394;945.6;F002;Poor edges;10;Run up / shut down (prod start / end);
+14.1.2024 ?.;FR 12.5 1200 2600 TE (60);12;12;37.4;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+14.1.2024 ?.;FR 12.5 1200 2600 TE (60);142;142;443;F002;Poor edges;10;Run up / shut down (prod start / end);
+14.1.2024 ?.;FR 12.5 1200 2600 TE (60) 1WP foil NG;6;6;18;F003;Hollow edges;10;Run up / shut down (prod start / end);
+14.1.2024 ?.;FR 12.5 1200 2600 TE (60) 1WP foil NG;10;10;31.2;F002;Poor edges;50;Paper change;
+15.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;60;60;144;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+15.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;2;2;4;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+15.1.2024 ?.;FR 12.5 1200 2000 HRTE (60) PLS;102;102;244.8;F002;Poor edges;10;Run up / shut down (prod start / end);
+15.1.2024 ?.;FR 12.5 1200 2600 TE (60) 1WP foil NG;4;4;12;F005;Rippling;50;Paper change;
+15.1.2024 ?.;FR 12.5 1200 2600 TE (60) 1WP foil NG;6;6;18;F002;Poor edges;50;Paper change;
+15.1.2024 ?.;REG 9.5 1200 2600 TE (80) OWP foil NG;237;237;739.4;F002;Poor edges;10;Run up / shut down (prod start / end);
+15.1.2024 ?.;FR 15 1200 2000 HRTE (40);16;16;38.4;F002;Poor edges;50;Paper change;
+15.1.2024 ?.;FRMR 12.5 1200 2600 TE (60) 1WP Fol;29;29;90.5;F002;Poor edges;40;Product change (flying changeover);
+15.1.2024 ?.;REG 9.5 1200 2600 TE (80);10;10;31.2;F002;Poor edges;50;Paper change;
+15.1.2024 ?.;Sonicboard REG 12.5 1200 2000 TE (60);12;12;28;F002;Poor edges;50;Paper change;
+16.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;240;240;576;F004;Paper bonding;10;Run up / shut down (prod start / end);
+16.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;367;367;880.8;F002;Poor edges;10;Run up / shut down (prod start / end);
+16.1.2024 ?.;REG 12.5 1200 2800 HRTE (60) S+B;9;9;30.2;F002;Poor edges;50;Paper change;
+16.1.2024 ?.;REG 9.5 1200 2000 HRTE (80) S+B;34;34;81.6;F002;Poor edges;40;Product change (flying changeover);
+16.1.2024 ?.;REG 9.5 1200 2000 HRTE (80) S+B;11;11;26;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+16.1.2024 ?.;REG 9.5 1200 2000 HRTE (80) S+B;10;10;24;F008;Board geometry;140;Bundler / saw cut;
+16.1.2024 ?.;REG 9.5 1200 2000 TE (80) GS foil NG;6;6;14;F002;Poor edges;50;Paper change;
+16.1.2024 ?.;FR 15 1200 2000 HRTE (40);10;10;24;F004;Paper bonding;10;Run up / shut down (prod start / end);
+16.1.2024 ?.;FR 15 1200 2000 HRTE (40);12;12;28;F002;Poor edges;50;Paper change;
+17.1.2024 ?.;REG 12.5 1200 2800 HRTE (60) S+B;5;5;16;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+17.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;78;78;187.2;F002;Poor edges;10;Run up / shut down (prod start / end);
+17.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;7;7;16;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+17.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;16;16;38.4;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+17.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;86;86;206.4;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+17.1.2024 ?.;MR 12.5 1200 2800 HRTE (60) S+B;3;3;10;F003;Hollow edges;40;Product change (flying changeover);
+17.1.2024 ?.;REG 12.5 1200 2600 TE (60);16;16;49.9;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+17.1.2024 ?.;MR 12.5 1200 2000 TE (60);2;2;4;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+17.1.2024 ?.;REG 12.5 1200 2600 TE (60);60;60;187.2;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+17.1.2024 ?.;REG 12.5 1200 2600 TE (60) GS Foil NG;5;5;15;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+17.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;36;36;112.3;F002;Poor edges;50;Paper change;
+17.1.2024 ?.;REG 9.5 1200 2600 TE (80) OWP foil NG;125;125;390;F002;Poor edges;40;Product change (flying changeover);
+17.1.2024 ?.;REG 12.5 1200 2000 TE (60) GS Foil NG;88;88;211.2;F002;Poor edges;10;Run up / shut down (prod start / end);
+17.1.2024 ?.;MR 12.5 1200 2000 TE (60) GS m.Foli NG;4;4;9;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+17.1.2024 ?.;FR 15 1200 2000 HRTE (40);123;123;295.2;F004;Paper bonding;10;Run up / shut down (prod start / end);
+17.1.2024 ?.;REG 12.5 1200 2800 TE (60) GS Foil;158;158;530.9;F002;Poor edges;10;Run up / shut down (prod start / end);
+17.1.2024 ?.;REG 12.5 1200 2800 TE (60) GS Foil;11;11;37;F005;Rippling;50;Paper change;
+17.1.2024 ?.;MR 12.5 1200 2600 TE (60);20;20;62.4;F002;Poor edges;50;Paper change;
+17.1.2024 ?.;MR 12.5 1200 2600 TE (60);60;60;187.2;F002;Poor edges;40;Product change (flying changeover);
+18.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;16;16;38.4;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+18.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;46;46;110.4;F002;Poor edges;40;Product change (flying changeover);
+18.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;47;47;112.8;F002;Poor edges;40;Product change (flying changeover);
+18.1.2024 ?.;MR 12.5 1200 2600 TE (60) EWP Foil NG;4;4;12;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+18.1.2024 ?.;FR 12.5 1200 2600 TE (60) 1WP foil NG;1;1;3;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+18.1.2024 ?.;MR 12.5 1200 2600 TE (60) EWP Foil NG;9;9;28;F002;Poor edges;50;Paper change;
+18.1.2024 ?.;MR 12.5 1200 2600 TE (60) EWP Foil NG;5;5;15;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+18.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;130;130;405.6;F002;Poor edges;10;Run up / shut down (prod start / end);
+18.1.2024 ?.;MR 12.5 1200 2000 TE (60) GS m.Foli NG;24;24;57.6;F002;Poor edges;50;Paper change;
+18.1.2024 ?.;REG 12.5 1200 2000 TE (60) GS Foil NG;15;15;36;F002;Poor edges;50;Paper change;
+18.1.2024 ?.;MR 12.5 1200 2500 TE (60) EWP Foil NG;2;2;6;F003;Hollow edges;10;Run up / shut down (prod start / end);
+18.1.2024 ?.;REG 12.5 1200 2500 TE (60) GS Foil NG;6;6;18;F002;Poor edges;50;Paper change;
+18.1.2024 ?.;MR 12.5 1200 2600 TE (60);44;44;137.3;F002;Poor edges;40;Product change (flying changeover);
+18.1.2024 ?.;REG 9.5 1200 2600 TE (80);160;160;499.2;F012;Breaking loads / flexural strength;170;Other reasons (with comment!);broken boards. loading
+19.1.2024 ?.;REG PLUS 12.5 1200 2600 TE (60) NG;64;64;199.7;F002;Poor edges;10;Run up / shut down (prod start / end);
+20.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;17;17;40.8;F005;Rippling;50;Paper change;
+20.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;290;290;696;F002;Poor edges;10;Run up / shut down (prod start / end);
+20.1.2024 ?.;REG 12.5 1200 2000 TE (60) GS Foil NG;10;10;24;F002;Poor edges;50;Paper change;
+21.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;90;90;216;F002;Poor edges;10;Run up / shut down (prod start / end);
+21.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;22;22;52.8;F005;Rippling;40;Product change (flying changeover);
+21.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;10;10;24;F002;Poor edges;50;Paper change;
+21.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;69;69;165.6;F002;Poor edges;40;Product change (flying changeover);
+21.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;35;35;84;F002;Poor edges;40;Product change (flying changeover);
+21.1.2024 ?.;MR 12.5 1200 2600 TE (60) EWP Foil NG;3;3;9;F005;Rippling;50;Paper change;
+21.1.2024 ?.;MR 12.5 1200 2600 TE (60) EWP Foil NG;103;103;321.4;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+21.1.2024 ?.;REG 12.5 1200 2000 TE (60) GS Foil NG;30;30;72;F002;Poor edges;10;Run up / shut down (prod start / end);
+22.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;24;24;74.9;F005;Rippling;40;Product change (flying changeover);
+22.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;77;77;240.2;F002;Poor edges;10;Run up / shut down (prod start / end);
+22.1.2024 ?.;MR 12.5 1200 2600 TE (60) EWP Foil NG;6;6;18;F005;Rippling;50;Paper change;
+22.1.2024 ?.;MR 12.5 1200 2600 TE (60) EWP Foil NG;6;6;18;F002;Poor edges;50;Paper change;
+22.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;17;17;53;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+22.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;50;50;156;F002;Poor edges;10;Run up / shut down (prod start / end);
+22.1.2024 ?.;REG 12.5 1200 2600 TE (60) EWP Foil NG;120;120;374.4;F004;Paper bonding;10;Run up / shut down (prod start / end);
+22.1.2024 ?.;REG 12.5 1200 2000 TE (60) GS Foil NG;52;52;124.8;F002;Poor edges;10;Run up / shut down (prod start / end);
+22.1.2024 ?.;REG 12.5 1200 2500 TE (60) EWP Foil NG;2;2;6;F002;Poor edges;50;Paper change;
+22.1.2024 ?.;REG PLUS 12.5 1200 2600 TE (60) NG;47;47;146.6;F002;Poor edges;40;Product change (flying changeover);
+23.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;8;8;19;F002;Poor edges;50;Paper change;
+23.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;17;17;40.8;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+23.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;1;1;2;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+23.1.2024 ?.;REG 12.5 1200 2500 HRTE (60) S+B;3;3;9;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+23.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;30;30;72;F009;Bubbles;40;Product change (flying changeover);
+23.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;269;269;645.6;F002;Poor edges;40;Product change (flying changeover);
+23.1.2024 ?.;MR 12.5 1200 2000 TE (60) GS m.Foli NG;179;179;429.6;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+23.1.2024 ?.;MR 12.5 1200 2000 TE (60) GS m.Foli NG;6;6;14;F002;Poor edges;50;Paper change;
+23.1.2024 ?.;REG 12.5 1200 2000 TE (60) GS Foil NG;46;46;110.4;F002;Poor edges;40;Product change (flying changeover);
+23.1.2024 ?.;REG 12.5 1200 2000 TE (60) GS Foil NG;128;128;307.2;F002;Poor edges;40;Product change (flying changeover);
+23.1.2024 ?.;REG 12.5 1200 2500 TE (60) GS Foil NG;60;60;180;F002;Poor edges;40;Product change (flying changeover);
+23.1.2024 ?.;REG 12.5 1200 2500 TE (60) GS Foil NG;137;137;411;F004;Paper bonding;40;Product change (flying changeover);
+23.1.2024 ?.;REG PLUS 12.5 1200 2600 TE (60) NG;98;98;305.8;F002;Poor edges;40;Product change (flying changeover);
+24.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;34;34;81.6;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+24.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;200;200;480;F002;Poor edges;10;Run up / shut down (prod start / end);
+25.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;120;120;288;F002;Poor edges;10;Run up / shut down (prod start / end);
+25.1.2024 ?.;REG 12.5 1200 2000 HRTE (60) S+B;180;180;432;F002;Poor edges;10;Run up / shut down (prod start / end);
+25.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;120;120;288;F002;Poor edges;40;Product change (flying changeover);
+25.1.2024 ?.;MR 12.5 1200 2000 HRTE (60) S+B;1;1;2;F016;Other reasons (with comment!);160;Other mechanical problems;broken boards. bundler.
+25.1.2024 ?.;MR 12.5 1200 2000 TE (60);60;60;144;F002;Poor edges;40;Product change (flying changeover);
+25.1.2024 ?.;REG 12.5 1200 2600 TE (60);60;60;187.2;F002;Poor edges;40;Product change (flying changeover);
+25.1.2024 ?.;MR 12.5 1200 2600 TE (60) EWP Foil NG;136;136;424.3;F002;Poor edges;40;Product change (flying changeover);
+25.1.2024 ?.;MR 12.5 1200 2600 TE (60) EWP Foil NG;6;6;18;F003;Hollow edges;40;Product change (flying changeover);
+25.1.2024 ?.;REG 12.5 1200 2000 TE (60);36;36;86.4;F002;Poor edges;50;Paper change;
