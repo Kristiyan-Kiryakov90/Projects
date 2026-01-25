@@ -1,0 +1,8 @@
+project:
+  name: etl-03
+
+webserver:
+  port: 8080
+
+postgres:
+  port: 5433

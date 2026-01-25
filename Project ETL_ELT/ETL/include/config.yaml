@@ -1,0 +1,8 @@
+aws_conn_id: aws_conn_id
+
+
+s3:
+  bucket: data-warehouse-course1
+  raw_prefix: exam/
+  processed_prefix: exam_output
+
